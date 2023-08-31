@@ -1,4 +1,7 @@
-found here:
+### Deploy quantized model
+
+Transformers code and pip package versions was found here:
+
 https://github.com/facebookresearch/llama/issues/540
 
 <details>
