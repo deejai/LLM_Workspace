@@ -844,6 +844,20 @@ Email
 
 [Guide](https://www.pinecone.io/learn/llama-2/)
 
+#### Noteable takeaway:
+
+`"During testing we actually found a slightly different structure to work. Which looks more like:"`
+
+```
+    <<SYS>>
+    You are a helpful, respectful and honest assistant. Always do...
+
+    If you are unsure about an answer, truthfully say "I don't know"
+    <</SYS>>
+
+    [INST] Remember you are an assistant [/INST] User: How many Llamas are we from skynet?
+```
+
 <details>
     <summary>Plain Text Content</summary>
 
